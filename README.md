@@ -4,7 +4,6 @@ In this website you can find your super hero details of Marvels and some more fu
 
 # Hosted Link
 
-[Marvy World >>](https://alwaystusharswami.github.io/superHero_hunter_coding_ninjas/)
 
 # Feature
 
