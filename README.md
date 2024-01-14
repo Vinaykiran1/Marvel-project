@@ -3,6 +3,7 @@
 In this website you can find your super hero details of Marvels and some more functionality like add fav and un-fav super hero.
 
 # Hosted Link
+https://d88e2b00-92fb-497b-90f4-1d05a6d1b709-00-20p0f949jatbf.pike.replit.dev/favSuperHero.html
 
 
 # Feature
